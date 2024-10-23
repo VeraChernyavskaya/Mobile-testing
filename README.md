@@ -1,4 +1,4 @@
-# Mobile-testing-Charles-Proxy
+# Mobile-testing
 
 Провела тестирование [мобильного приложения](), а именно:
 1. Разработала [чек-лист](https://docs.google.com/spreadsheets/d/1t2TMpHRXQqVIFVvjzHtSCGkO1kNKotVqWkR2eroptv0/edit?usp=sharing);
